@@ -1,5 +1,7 @@
 # COMP309FinalProject
- 
+
+The premise of the task was to tune a ML model so that it could somewhat accurately distinguish between images of strawberries cherries and tomatoes.
+
 Test.py was provided to me by the lecturer and was not implemented by me.
 
 Train.py was provided as a template file where I wrote the construct_model and train_model functions only.
